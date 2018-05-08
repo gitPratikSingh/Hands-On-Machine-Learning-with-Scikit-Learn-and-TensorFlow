@@ -3,9 +3,7 @@ Python Project - Concepts, Tools, and Techniques to Build Intelligent Systems
 
 In this repository, I will be posting my project codes motivated from the topics in the book "Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron"
 
-One big insight I learned is : 
-
-How to start a Machine Learning project. 
+One big insight I got from this book is about "How to start a Machine Learning project ?" 
 
 There are eight main steps:
 1. Frame the problem and look at the big picture.
